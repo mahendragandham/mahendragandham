@@ -11,8 +11,8 @@
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary></details>
 <details><summary>Android Development</summary></details>
-<details><summary>AI Development</summary><details>
-<details><summary>Blockchain Development</summary><details>
+<details><summary>AI Development</summary></details>
+<details><summary>Blockchain Development</summary></details>
 <details><summary>Linux Administration</summary></details>
 <h2>The Questions You May Have 😕</h2>
 <details>
