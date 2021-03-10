@@ -31,7 +31,8 @@
   A: Authentic
   </pre>
 </details>
-<h2>Worked with
+<h2>Worked with</h3>
+
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;
@@ -49,7 +50,6 @@
 <img height="35" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/linux.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/kali-linux.png">
-</h3>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mahendragandham&show_icons=true)
 <br/>
