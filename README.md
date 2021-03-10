@@ -1,7 +1,5 @@
 <h1>Hi there, This is <a href="https://mahendra--gandham.web.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Devotee of </h2>
-
-<h2>You can contact me through</h2>
+<h3>Devotee, Enthusiast, Addict, Admirer of </h3>
 
 <img align='right' src="https://github.com/mahendragandham/mahendragandham/blob/main/undraw.png" height="300" />
 <a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.png" width="40" /></a>&nbsp;
