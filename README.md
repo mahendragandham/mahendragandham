@@ -52,7 +52,7 @@
 <img height="35" src="https://img.icons8.com/color/48/000000/linux.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/kali-linux.png">
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mahendragandham&show_icons=true)
+[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&show_icons=true&count_private=true)](https://github.com/mahendragandham/github-readme-stats)
 <br/>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&layout=compact)
