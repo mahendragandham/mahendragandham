@@ -11,7 +11,6 @@
 <h3>What I do? 💻</h3>
 <details>
   <summary>Full Stack Development</summary>
-  <ul>
   <summary>Android Development</summary>
   <summary>AI Development</summary>
   <summary>Blockchain Development</summary>
