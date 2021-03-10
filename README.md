@@ -1,12 +1,12 @@
 <h1>Hi there, I am <a href="https://mahendra--gandham.web.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-<a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.png" width="40" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube-logo.png" width="40" /></a>&nbsp;
-<a href="https://github.com/mahendragandham"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/github-logo.png" width="40" /></a>&nbsp;
-<a href="https://www.facebook.com/mahendra.gandham.54/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/facebook.png" width="40" /></a>&nbsp;
-<a href="mailto:mahendragandham730@gmail.com"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/google-plus.png" width="40" /></a>&nbsp;
-<a href="https://twitter.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/twitter.png" width="40" /></a>&nbsp;
-<a href="https://www.instagram.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/instagram.png" width="40" /></a>&nbsp;
+<img align='right' src="https://github.com/mahendragandham/mahendragandham/blob/main/undraw.png" width="230" />
+<a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.png" width="40" /></a>&nbsp; &nbsp;
+<a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube-logo.png" width="40" /></a>&nbsp; &nbsp;
+<a href="https://github.com/mahendragandham"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/github-logo.png" width="40" /></a>&nbsp; &nbsp;
+<a href="https://www.facebook.com/mahendra.gandham.54/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/facebook.png" width="40" /></a>&nbsp; &nbsp
+<a href="mailto:mahendragandham730@gmail.com"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/google-plus.png" width="40" /></a>&nbsp; &nbsp
+<a href="https://twitter.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/twitter.png" width="40" /></a>&nbsp; &nbsp
+<a href="https://www.instagram.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/instagram.png" width="40" /></a>&nbsp; &nbsp
 
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary></details>
@@ -32,7 +32,23 @@
   </pre>
 </details>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)
+<h3>Worked on</h3>
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;
+<img height="35" src="https://img.icons8.com/color/48/000000/javascript.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+<img height="35" src="https://img.icons8.com/color/48/000000/css3.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;
+<img height="35" src="https://img.icons8.com/color/48/000000/heroku.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">&nbsp;
+<img height="35" src="https://img.icons8.com/color/48/000000/linux.png">&nbsp;
+<img height="35" src="https://img.icons8.com/color/48/000000/kali-linux.png">&nbsp;
+<img height="35" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">&nbsp;
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mahendragandham&show_icons=true)
 <br/>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&theme=radical&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&theme=radical&layout=compact)
