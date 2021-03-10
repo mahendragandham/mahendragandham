@@ -12,7 +12,6 @@
 
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary></details>
-<details><summary>Android Development</summary></details>
 <details><summary>AI Development</summary></details>
 <details><summary>iOS Development</summary></details>
 <details><summary>Linux Administration</summary></details>
