@@ -1,6 +1,8 @@
-<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
 <h1>Hi there, This is <a href="https://mahendra--gandham.web.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3>Devotee, Enthusiast, Addict, Admirer of <i class="fab fa-apple"></i></h3>
+<h3>Devotee, Enthusiast, Addict, Admirer of <img src="https://github.com/mahendragandham/mahendragandham/blob/main/apple-brands.svg">
+
+</h3>
 
 <img align='right' src="https://github.com/mahendragandham/mahendragandham/blob/main/undraw.png" height="300" />
 <a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.png" width="40" /></a>&nbsp;
