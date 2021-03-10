@@ -9,13 +9,11 @@
 <a href="https://www.instagram.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 💻</h3>
-<details>
-  <summary>Full Stack Development</summary>
-  <summary>Android Development</summary>
-  <summary>AI Development</summary>
-  <summary>Blockchain Development</summary>
-  <summary>Linux Administration</summary>
-</details>
+<details><summary>Full Stack Development</summary></details>
+<details><summary>Android Development</summary></details>
+<details><summary>AI Development</summary><details>
+<details><summary>Blockchain Development</summary><details>
+<details><summary>Linux Administration</summary></details>
 <h2>The Questions You May Have 😕</h2>
 <details>
   <summary>Who are you? 👨</summary>
