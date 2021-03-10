@@ -32,4 +32,7 @@
   </pre>
 </details>
 
-[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&show_icons=true&count_private=true)](https://github.com/mahendragandham/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)
+<br/>
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&theme=radical&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&theme=radical&layout=compact)
