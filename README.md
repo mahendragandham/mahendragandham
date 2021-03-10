@@ -1,6 +1,6 @@
 <h1>Hi there, I am <a href="https://mahendra--gandham.web.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.png" width="40" padding="20" /></a>
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube-logo.png" width="40" /></a>
 <a href="https://github.com/mahendragandham"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/mahendra.gandham.54/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/facebook.png" width="40" /></a>
