@@ -1,4 +1,6 @@
 <h1>Hi there, This is <a href="https://mahendra--gandham.web.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h3>Devotee of </h3>
+
 <img align='right' src="https://github.com/mahendragandham/mahendragandham/blob/main/undraw.png" height="300" />
 <a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.png" width="40" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube-logo.png" width="40" /></a>&nbsp;
@@ -12,7 +14,7 @@
 <details><summary>Full Stack Development</summary></details>
 <details><summary>Android Development</summary></details>
 <details><summary>AI Development</summary></details>
-<details><summary>Blockchain Development</summary></details>
+<details><summary>iOS Development</summary></details>
 <details><summary>Linux Administration</summary></details>
 <h2>The Questions You May Have 😕</h2>
 <details>
