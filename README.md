@@ -18,7 +18,7 @@
   <ul>
     <li><a href="https://github.com/mahendragandham/netflix-clone">Netflix-Clone</a></li>
     <li><a href="https://github.com/mahendragandham/amazon-clone">Amazon-Clone</a></li>
-    <li><a href="https://github.com/mahendragandham/freelance-hardware-services">Hardware Services</a></li>
+    <li><a href="https://github.com/mahendragandham/hardwareservices">Hardware Services</a></li>
   </ul>
   </details>
   <details>
