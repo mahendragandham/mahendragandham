@@ -16,17 +16,19 @@
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendragandham/netflix-clone">Netflix-Clone</li>
-    <li><a href="https://github.com/mahendragandham/amazon-clone">Amazon-Clone</li>
-    <li><a href="https://github.com/mahendragandham/freelance-hardware-services">Hardware Services</li>
+    <li><a href="https://github.com/mahendragandham/netflix-clone">Netflix-Clone</a></li>
+    <li><a href="https://github.com/mahendragandham/amazon-clone">Amazon-Clone</a></li>
+    <li><a href="https://github.com/mahendragandham/freelance-hardware-services">Hardware Services</a></li>
   </ul>
-</details>
-<details><summary>AI Development</summary>
+  </details>
+  <details>
+  <summary>AI Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendragandham/face-detection-app">Face-detection-App</li>
-    <li><a href="https://github.com/mahendragandham/smile-detector-app">Smile-detector-App</li>
+    <li><a href="https://github.com/mahendragandham/face-detection-app">Face-detection-App</a></li>
+    <li><a href="https://github.com/mahendragandham/smile-detector-app">Smile-detector-App</a></li>
   </ul>
-</details>
+  </details>
+
 <details><summary>iOS Development</summary></details>
 <details><summary>Linux Administration</summary></details>
 <h2>The Questions You May Have 😕</h2>
