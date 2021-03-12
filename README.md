@@ -14,8 +14,19 @@
 <a href="https://www.instagram.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 💻</h3>
-<details><summary>Full Stack Development</summary></details>
-<details><summary>AI Development</summary></details>
+<details><summary>Full Stack Development</summary>
+  <ul>
+    <li><a href="https://github.com/mahendragandham/netflix-clone">Netflix-Clone</li>
+    <li><a href="https://github.com/mahendragandham/amazon-clone">Amazon-Clone</li>
+    <li><a href="https://github.com/mahendragandham/freelance-hardware-services">Hardware Services</li>
+  </ul>
+</details>
+<details><summary>AI Development</summary>
+  <ul>
+    <li><a href="https://github.com/mahendragandham/face-detection-app">Face-detection-App</li>
+    <li><a href="https://github.com/mahendragandham/smile-detector-app">Smile-detector-App</li>
+  </ul>
+</details>
 <details><summary>iOS Development</summary></details>
 <details><summary>Linux Administration</summary></details>
 <h2>The Questions You May Have 😕</h2>
