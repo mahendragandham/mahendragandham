@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 💻</h3>
-<details><summary>Full Stack Development</summary>
+<details><summary>Web Development</summary>
   <ul>
     <li><a href="https://github.com/mahendragandham/netflix-clone">Netflix-Clone</a></li>
     <li><a href="https://github.com/mahendragandham/amazon-clone">Amazon-Clone</a></li>
