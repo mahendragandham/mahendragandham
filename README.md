@@ -31,7 +31,7 @@
 
 <details><summary>iOS Development</summary>
   <ul>
-    <li<a href="https://github.com/mahendragandham/iOS-Messaging-App">iOS-Messaging-App</a></li>
+    <li><a href="https://github.com/mahendragandham/iOS-Messaging-App">iOS-Messaging-App</a></li>
   </ul>
 </details>
 <details><summary>Linux Administration</summary></details>
