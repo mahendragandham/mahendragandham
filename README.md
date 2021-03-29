@@ -28,12 +28,6 @@
     <li><a href="https://github.com/mahendragandham/smile-detector-app">Smile-detector-App</a></li>
   </ul>
   </details>
-
-<details><summary>iOS Development</summary>
-  <ul>
-    <li><a href="https://github.com/mahendragandham/iOS-Messaging-App">iOS-Messaging-App</a></li>
-  </ul>
-</details>
 <details><summary>Linux Development</summary>
   <ul>
     <li><a href="https://github.com/mahendragandham/Conqueror">Conqueror OS</a></li>
