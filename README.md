@@ -22,7 +22,7 @@
   </ul>
   </details>
   <details>
-  <summary>AI Development</summary>
+  <summary>Artificial Intelligence Development</summary>
   <ul>
     <li><a href="https://github.com/mahendragandham/face-detection-app">Face-detection-App</a></li>
     <li><a href="https://github.com/mahendragandham/smile-detector-app">Smile-detector-App</a></li>
