@@ -30,7 +30,7 @@
   </details>
 <details><summary>Linux Development</summary>
   <ul>
-    <li><a href="https://github.com/mahendragandham/Conqueror_1.0">Conqueror OS</a></li>
+    <li><a href="https://github.com/mahendragandham/Conqueror_1.0">Conqueror_1.0</a></li>
     <li><a href="https://github.com/mahendragandham/Linux_kernel">Linux Kernel</a></li>
   </ul>
 </details>
