@@ -1,5 +1,5 @@
 
-<h1>Hi there, This is Mahendra <a href="https://mahendra--gandham.web.app/">(Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi there, This is <a href="https://mahendra--gandham.web.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3>Devotee, Enthusiast, Addict, Admirer of <img height="18" src="https://github.com/mahendragandham/mahendragandham/blob/main/Apple-logo-black-and-white~2.png">
 
 </h3>
