@@ -61,7 +61,7 @@
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;
 <img height="35" src="https://img.icons8.com/color/48/000000/heroku.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png">&nbsp;
+<img height="35" src="https://raw.githubusercontent.com/logo/apple/master/images/logo-white.svg">&nbsp;
 <img height="35" src="https://img.icons8.com/ios-filled/50/000000/django.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
 <img height="35" src="https://img.icons8.com/color/48/000000/pycharm.png">
