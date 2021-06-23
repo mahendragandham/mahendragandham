@@ -50,7 +50,8 @@
   </pre>
 </details>
 <h2>Worked with</h3>
-<p>Programming Languages and Frameworks:</p>
+<h3>Programming Languages and Frameworks:</h3>
+
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/java.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/python.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
