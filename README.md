@@ -54,6 +54,7 @@
 
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/java.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/python.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/c.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/html5.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/css3.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/javascript.svg">&nbsp;
