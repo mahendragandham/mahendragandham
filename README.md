@@ -80,6 +80,7 @@
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/atom.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/sublime.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/spyder.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/jupyter.svg">&nbsp;
 
 
 <!-- 
