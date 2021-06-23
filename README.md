@@ -51,9 +51,26 @@
 </details>
 <h2>Worked with</h3>
 
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<!-- 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" />
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;
 <img height="35" src="https://img.icons8.com/color/48/000000/javascript.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
@@ -68,7 +85,7 @@
 <img height="35" src="https://img.icons8.com/color/48/000000/pycharm.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 <img height="35" src="https://img.icons8.com/color/48/000000/linux.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/kali-linux.png">
+<img height="35" src="https://img.icons8.com/color/48/000000/kali-linux.png"> -->
 
 [![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)](https://github.com/mahendragandham/github-readme-stats)
 <br/>
