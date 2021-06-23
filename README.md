@@ -3,7 +3,7 @@
 <h3>Passionate about Programming Research & Development</h3>
 
 <img align='right' src="https://github.com/mahendragandham/mahendragandham/blob/main/un_draw.svg" height="300" />
-<a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.png" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.svg" width="40" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg" width="40" /></a>&nbsp;
 <a href="https://github.com/mahendragandham"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/github-logo.png" width="40" /></a>&nbsp;
 <a href="https://www.facebook.com/mahendra.gandham.54/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/facebook.png" width="40" /></a>&nbsp;
