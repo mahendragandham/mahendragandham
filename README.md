@@ -63,7 +63,7 @@
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/nodedotjs.svg">&nbsp;
 <h3>Operating Systems:</h3>
 
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/windows.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/windows.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/ubuntu.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/debian.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/redhat.svg">&nbsp;
