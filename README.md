@@ -62,6 +62,7 @@
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/django.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/npm.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/nodedotjs.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/dotnet.svg">&nbsp;
 <h3>Operating Systems:</h3>
 
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/windows.svg">&nbsp;
@@ -78,6 +79,7 @@
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/vscode.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/atom.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/sublime.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/spyder.svg">&nbsp;
 
 
 <!-- 
