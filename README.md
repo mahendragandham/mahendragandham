@@ -72,4 +72,4 @@
 [![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)](https://github.com/mahendragandham/github-readme-stats)
 <br/>
 
-[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&layout=compact)
+[![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&theme=radical&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendragandham&layout=compact)
