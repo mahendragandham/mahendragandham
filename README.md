@@ -51,7 +51,7 @@
 </details>
 <h2>Worked with</h3>
 <p>Programming Languages and Frameworks:</p>
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/github.svg">&nbsp;
+<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/java.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/python.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
