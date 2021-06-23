@@ -1,4 +1,4 @@
-<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+
 <h1>Hi there, This is <a href="https://mahendragandham.vercel.app/">Mahendra (Software Developer)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3>Passionate about Programming Research & Development</h3>
 
