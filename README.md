@@ -73,7 +73,7 @@
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/macos.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/android.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/ios.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp;
+<!-- <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp; -->
 <h3>Integrated Development Environments:</h3>
 
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/vscode.svg">&nbsp;
