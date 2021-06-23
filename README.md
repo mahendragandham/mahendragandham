@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/mahendra.gandham.54/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/facebook.svg" width="40" /></a>&nbsp;
 <a href="mailto:mahendragandham730@gmail.com"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/gmail.svg" width="40" /></a>&nbsp;
 <a href="https://twitter.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/twitter.svg" width="40" /></a>&nbsp;
-<a href="https://www.instagram.com/mahendra_4919"><img style="padding:20px;" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/instagram.svg" width="40" /></a>
+<a href="https://www.instagram.com/mahendra_4919"><img style="padding:40px;" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/instagram.svg" width="40" /></a>
 
 <h3>What I do? 💻</h3>
 <details><summary>Full Stack Development</summary>
