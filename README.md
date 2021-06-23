@@ -83,7 +83,7 @@
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/jupyter.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/androidstudio.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/xcode.svg">&nbsp;
-<h3>Technologies:</h3>
+<h3>[$Other Technologies:~#]</h3>
 
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/aws.svg">&nbsp;
 <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/googlecloud.svg">&nbsp;
