@@ -52,60 +52,60 @@
 <h2>Worked with</h3>
 <h3>Programming Languages and Frameworks:</h3>
 
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/java.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/python.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/c.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/html5.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/css3.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/javascript.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/react.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/django.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/npm.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/nodedotjs.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/dotnet.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/java.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/python.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/c.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/html5.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/css3.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/javascript.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/react.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/django.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/npm.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/nodedotjs.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/dotnet.svg">&nbsp;
 <h3>Operating Systems:</h3>
 
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/windows.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/ubuntu.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/debian.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/redhat.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/kalilinux.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/macos.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/android.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/ios.svg">&nbsp;
-<!-- <img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp; -->
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/ubuntu.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/debian.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/redhat.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/kalilinux.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/macos.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/android.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/ios.svg">&nbsp;
+<!-- <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp; -->
 <h3>Integrated Development Environments:</h3>
 
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/vscode.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/atom.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/sublime.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/spyder.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/jupyter.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/androidstudio.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/xcode.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/vscode.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/atom.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/sublime.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/spyder.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/jupyter.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/androidstudio.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/xcode.svg">&nbsp;
 <h3>[$Other Technologies:~#]</h3>
 
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/aws.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/googlecloud.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/azure.svg">&nbsp;
-<img height="35" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/git.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/aws.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/googlecloud.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/azure.svg">&nbsp;
+<img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/git.svg">&nbsp;
 <!-- 
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">&nbsp;
-<img height="35" src="https://img.icons8.com/color/48/000000/javascript.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-<img height="35" src="https://img.icons8.com/color/48/000000/css3.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;
-<img height="35" src="https://img.icons8.com/color/48/000000/heroku.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/logo/apple/master/images/logo-white.svg">&nbsp;
-<img height="35" src="https://img.icons8.com/ios-filled/50/000000/django.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
-<img height="35" src="https://img.icons8.com/color/48/000000/pycharm.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/linux.png">
-<img height="35" src="https://img.icons8.com/color/48/000000/kali-linux.png"> -->
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/python/python.png">&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/dart/dart.png">&nbsp;
+<img height="30" src="https://img.icons8.com/color/48/000000/javascript.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/html/html.png">&nbsp;
+<img height="30" src="https://img.icons8.com/color/48/000000/css3.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/flutter/flutter.png">&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/firebase/firebase.png">&nbsp;
+<img height="30" src="https://img.icons8.com/color/48/000000/heroku.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/android/android.png">&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/logo/apple/master/images/logo-white.svg">&nbsp;
+<img height="30" src="https://img.icons8.com/ios-filled/50/000000/django.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/git/git.png">&nbsp;
+<img height="30" src="https://img.icons8.com/color/48/000000/pycharm.png">
+<img height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+<img height="30" src="https://img.icons8.com/color/48/000000/linux.png">
+<img height="30" src="https://img.icons8.com/color/48/000000/kali-linux.png"> -->
 
 [![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)](https://github.com/mahendragandham/github-readme-stats)
 <br/>
