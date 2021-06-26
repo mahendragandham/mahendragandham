@@ -50,7 +50,7 @@
   </pre>
 </details>
 <h2>Worked with</h3>
-<h3>Programming Languages and Frameworks:</h3>
+<h3>[$Programming Languages and Frameworks:~#]</h3>
 
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/java.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/python.svg">&nbsp;
@@ -63,7 +63,7 @@
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/npm.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/nodedotjs.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/dotnet.svg">&nbsp;
-<h3>Operating Systems:</h3>
+<h3>[$Operating Systems:~#]</h3>
 
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/windows.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/ubuntu.svg">&nbsp;
@@ -73,8 +73,7 @@
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/macos.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/android.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/ios.svg">&nbsp;
-<!-- <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg">&nbsp; -->
-<h3>Integrated Development Environments:</h3>
+<h3>[$Integrated Development Environments:~#]</h3>
 
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/vscode.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/atom.svg">&nbsp;
