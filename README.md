@@ -89,23 +89,6 @@
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/googlecloud.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/azure.svg">&nbsp;
 <img height="30" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/git.svg">&nbsp;
-<!-- 
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/python/python.png">&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/dart/dart.png">&nbsp;
-<img height="30" src="https://img.icons8.com/color/48/000000/javascript.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/html/html.png">&nbsp;
-<img height="30" src="https://img.icons8.com/color/48/000000/css3.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/flutter/flutter.png">&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/firebase/firebase.png">&nbsp;
-<img height="30" src="https://img.icons8.com/color/48/000000/heroku.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/android/android.png">&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/logo/apple/master/images/logo-white.svg">&nbsp;
-<img height="30" src="https://img.icons8.com/ios-filled/50/000000/django.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82300fe8e3017d3494d/topics/git/git.png">&nbsp;
-<img height="30" src="https://img.icons8.com/color/48/000000/pycharm.png">
-<img height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
-<img height="30" src="https://img.icons8.com/color/48/000000/linux.png">
-<img height="30" src="https://img.icons8.com/color/48/000000/kali-linux.png"> -->
 
 [![Mahendra's Github Stats](https://github-readme-stats.vercel.app/api?username=mahendragandham&theme=radical&show_icons=true)](https://github.com/mahendragandham/github-readme-stats)
 <br/>
