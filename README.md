@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/mahendra-gandham-7066b51b9/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/linkedin.svg" width="30" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCIf7QLKvNYQIFCRxCe-j8dQ"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/youtube.svg" width="30" /></a>&nbsp;
 <a href="https://github.com/mahendragandham"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/github.svg" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/mahendra.gandham.54/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/facebook.svg" width="30" /></a>&nbsp;
+<a href="https://www.facebook.com/mahendra.gandham.3/"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/facebook.svg" width="30" /></a>&nbsp;
 <a href="mailto:mahendragandham730@gmail.com"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/gmail.svg" width="30" /></a>&nbsp;
 <a href="https://twitter.com/mahendra_4919"><img src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/twitter.svg" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/mahendra_4919"><img style="padding:30px" src="https://github.com/mahendragandham/mahendragandham/blob/main/logos/instagram.svg" width="30" /></a>
